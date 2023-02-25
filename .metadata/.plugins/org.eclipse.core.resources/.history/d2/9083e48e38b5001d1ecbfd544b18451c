@@ -9,8 +9,6 @@ public class MainSumaNumeros {
 		
 		System.out.println(suma.dimeSuma());
 		
-		System.out.println("Hola");
-		
 	}
 
 }
